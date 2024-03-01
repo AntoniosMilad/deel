@@ -1,0 +1,8 @@
+{
+  "appId": "com.example.app",
+  "appName": "deel",
+  "webDir": "build",
+  "server": {
+    "androidScheme": "https"
+  }
+}
