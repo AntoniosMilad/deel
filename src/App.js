@@ -1,7 +1,7 @@
 import React from 'react';
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
-import ViewPayslips from './screens/ViewPayslips';
-import PayslipDetails from './screens/PayslipDetails';
+import ViewPayslips from './screens/ViewPayslip/ViewPayslips';
+import PayslipDetails from './screens/PaySlipDetails/PayslipDetails';
 import dummyPayslips from './dummyData/dummyData';
 
 const App = () => {
